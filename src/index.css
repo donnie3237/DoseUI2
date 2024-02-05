@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+        .main-text {
+            color: transparent !important;
+            background-image: linear-gradient(71.78deg,#00811c 27.87%,rgba(1, 139, 8, 0.8) 52.56%,#5fa005 74.58%);
+            background-clip: text !important;
+            font-weight: 900 !important;
+          }
